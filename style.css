@@ -467,6 +467,6 @@ background-color: #3d3b3b;
     .grid-container{
         grid-template-columns: 1fr 1fr;
         gap:5px;
-        padding: 37px 0px 0px 62px;
+        padding: 37px 0px 0px 18px;
     }
 }
